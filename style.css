@@ -1,0 +1,97 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.welcome{
+  height: 50vh;
+  font-size: 40px;
+  text-align: center;
+
+
+}
+header{
+  background-color: #333333;
+  height : 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cours{
+  height: 20vh;
+}
+.align{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.full-hw{
+  height: 95vh;
+  width: 100vw;
+  text-align: center;
+}
+.html{
+  background-color: #FF530D;
+  color: white;
+
+}
+.css{
+  background-color: #1151FF;
+  color: white;
+}
+.js{
+  background-color: #FFDC0D;
+  color: white;
+
+}
+form{
+  background-color: #333333;
+  height : 100vh;
+  width: 100vw;
+  display: contents;
+
+
+}
+header>.login{
+  padding: 40px;
+  justify-content: center;
+}
+
+input{
+  font-size: 24px;
+}
+
+footer{
+  height: 5vh;
+}
+.footer{
+  color: black;
+}
+h1{
+  font-size: 60px;
+  text-align: center;
+}
+h3{
+  font-size: 40px;
+  text-align: center;
+}
+p{
+  text-align: justify;
+  padding: 50px;
+  font-size: 40px;
+}
+a{
+  color:white;
+  text-decoration: none;
+
+}
